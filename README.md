@@ -1,22 +1,24 @@
-=>3 Bulb
-https://wokwi.com/projects/333796932630610515
-void setup() {
-  pinMode(13,OUTPUT);
-  pinMode(12, OUTPUT);
-  pinMode(11, OUTPUT);
-}
+=>3 Bulb</br>
+https://wokwi.com/projects/333796932630610515</br>
+void setup() {</br>
+  pinMode(13,OUTPUT);</br>
+  pinMode(12, OUTPUT);</br>
+  pinMode(11, OUTPUT);</br>
+}</br>
 
-void loop() {
-  digitalWrite(13, HIGH);
-  delay(1000);
-  digitalWrite(13, LOW);
-  delay(50);
-digitalWrite(12, HIGH);
-  delay(1000);
-  digitalWrite(12, LOW);
-  delay(50);
-digitalWrite(11, HIGH);
-  delay(1000);
-  digitalWrite(11, LOW);
-  delay(50);
-}
+void loop() {</br>
+  digitalWrite(13, HIGH);</br>
+  delay(1000);</br>
+  digitalWrite(13, LOW);</br>
+  delay(50);</br>
+digitalWrite(12, HIGH);</br>
+  delay(1000);</br>
+  digitalWrite(12, LOW);</br>
+  delay(50);</br>
+digitalWrite(11, HIGH);</br>
+  delay(1000);</br>
+  digitalWrite(11, LOW);</br>
+  delay(50);</br>
+}</br>
+
+=>RGB LED</br>
