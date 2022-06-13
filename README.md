@@ -8,14 +8,14 @@ https://wokwi.com/projects/333801500788654674</br>
 =>hello world</br>
 https://wokwi.com/projects/333806219693130324</br>
 
-=>UltraSonic</br>
+=>UltraSonic SENSOR</br>
 https://wokwi.com/projects/334344881532043858</br>
 
-=>PIR</br>
+=>PIR SENSOR</br>
 https://wokwi.com/projects/334346049182237266</br>
 
-=></br>
-</br>
+=>IR SENSOR</br>
+https://wokwi.com/projects/334346772804534867</br>
 
-=></br>
+=>TEMP SENSOR</br>
 </br>
