@@ -21,13 +21,13 @@ https://wokwi.com/projects/334346772804534867</br>
 https://wokwi.com/projects/334346714953548371</br>
 
 8)=>Button LED</br>
-https://wokwi.com/projects/new/arduino-uno</br>
+https://wokwi.com/projects/334430962204017236</br>
 
 9)=> Button Fade</br>
-https://wokwi.com/projects/new/arduino-uno</br>
+https://wokwi.com/projects/334431341587202643</br>
 
 10)=>  MOtion Sensor</br>
-https://wokwi.com/projects/new/arduino-uno</br>
+ https://wokwi.com/projects/334431854492910163</br>
 
 11)=> </br>
 </br>
