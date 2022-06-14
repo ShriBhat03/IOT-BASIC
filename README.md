@@ -29,8 +29,8 @@ https://wokwi.com/projects/334431341587202643</br>
 10)=>  Motion Sensor</br>
  https://wokwi.com/projects/334431854492910163</br>
 
-11)=> </br>
-</br>
+11)=>Motion Sensor Buzzer </br>
+https://wokwi.com/projects/334433831716127314</br>
 
 12)=> </br>
 </br>
