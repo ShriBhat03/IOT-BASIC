@@ -35,7 +35,13 @@ https://wokwi.com/projects/334433831716127314</br>
 12)=>Ultra Sonic sensor LED</br>
 https://wokwi.com/projects/334434440478458452 </br>
 
-13=></br>
-</br>
-14=></br>
-</br>
+13=>Servo motor</br>
+https://wokwi.com/projects/334975025852449363</br>
+
+14=>Servo motor controlled by potentiometer</br>
+https://wokwi.com/projects/334978058200023635</br>
+
+15=>Servo motor controlled by button</br>
+https://wokwi.com/projects/334977135889351250</br>
+
+
