@@ -93,4 +93,18 @@ void loop() {</br>
 }</br>
 ___+_______+_____________+______________+___________________</br>
 
-# 18
+# 18>>NodeMCU BUZZZER</br>
+const int buzzer = 12;</br>
+void setup() {</br>
+ pinMode(buzzer, OUTPUT);</br>
+}</br>
+void loop() {</br>
+  tone(buzzer,500);</br>
+  delay(300);</br>
+  noTone(buzzer);</br>
+  delay(200);</br>
+}</br>
+___+___+___+___+___+__+_</br>
+#19>>NodeMCU RGB </br>
+
+__+__+____+____+_
