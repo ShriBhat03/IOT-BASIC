@@ -105,6 +105,26 @@ void loop() {</br>
   delay(200);</br>
 }</br>
 ___+___+___+___+___+__+_</br>
-#19>>NodeMCU RGB </br>
+#19>>NodeMCU with Ir sensor </br> 
+ int val = 0 ;  </br> 
+ void setup()  </br> 
+ {  </br> 
+   Serial.begin(9600); // sensor buart rate </br>  
+   pinMode(14,HIGH);  // Led Pin Connected To D5 Pin    </br> 
+ }  </br> 
+ void loop()  </br>  
+ {  </br> 
+  val = digitalRead(5); // IR Sensor output pin connected to D1  </br> 
+  Serial.println(val);  // see the value in serial m0nitor in Arduino IDE</br>   
+  delay(100);      // for timer  </br> 
+  if(val == 1 )</br>   
+  {  </br> 
+   digitalWrite(14,HIGH); // LED ON  </br> 
+  }  </br> 
+  else  </br> 
+  {  </br> 
+   digitalWrite(14,LOW); // LED OFF  </br> 
+  }  </br> 
+  }  </br> 
+__+__+____+____+_</br> 
 
-__+__+____+____+_
